@@ -1,0 +1,61 @@
+#left-part{
+ /*   border: 5px solid black*/
+    top:25%;
+    bottom: 28%;
+    
+    
+   
+    width: 50%;
+    display: inline-block;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    right:50% ;
+    
+}
+#right-part{
+    top:25%;
+    bottom:25%;
+    /*border:5px solid black;*/
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left:50% ;
+    display: inline-block;
+    
+    
+
+} 
+img {
+    
+    max-width: 100%;
+    max-height: 100%;
+    top:0%;
+    bottom:0%;
+    position: absolute;
+}
+button{
+    width: 120px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    position: relative;
+   bottom:0%;
+   position: absolute;
+   font-size: smaller;
+  
+}
+#creator {
+    position: absolute;
+    bottom: 0%;
+    color: gray;
+    left: 47%;
+}
+#four  {
+
+position: absolute;
+}
+#message{
+    position: absolute;
+    top: 45%;
+}
